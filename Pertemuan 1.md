@@ -4,16 +4,24 @@ Nama		: Afif Naufal Hafidz
 NPM		: 41155050210067
 
 Kelas		: TIF A2
+
 ---
 1.	Instalasi Jupyter Notebook
 
 ![anaconda](https://github.com/user-attachments/assets/199b4fa0-3000-46e8-abaa-2d553d012afb)
+
 ![anaconda 1](https://github.com/user-attachments/assets/97123802-4f10-435c-b26e-c5da16a7043c)
+
 ![anaconda 2](https://github.com/user-attachments/assets/0d517184-2875-424e-852d-a360cd5ac69f)
+
 ![anaconda 3](https://github.com/user-attachments/assets/7e0c98b8-1cb7-4754-9450-546da8a45e4f)
+
 ![anaconda 4](https://github.com/user-attachments/assets/25f20a8a-a578-43b6-bff2-b3e95b59980a)
+
 ![anaconda 5](https://github.com/user-attachments/assets/72fd94be-482c-4f03-804b-84b056442b3e)
+
 ![anaconda 6](https://github.com/user-attachments/assets/84b9870a-a3f6-4cfb-9a75-78fb74598d4a)
+
 ![anaconda 7](https://github.com/user-attachments/assets/3210e8a4-e700-4544-badb-8bcfa3eec7de)
 ![anaconda 8](https://github.com/user-attachments/assets/ada46310-04d8-4b01-9403-d52f2da3bda0)
 ![anaconda 9](https://github.com/user-attachments/assets/340c5ff5-02fd-4ab4-855c-98e449fd78b8)
