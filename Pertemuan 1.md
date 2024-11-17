@@ -4,6 +4,7 @@ NPM		: 41155050210067
 Kelas		: TIF A2
 ---
 1.	Instalasi Jupyter Notebook
+
 ![anaconda](https://github.com/user-attachments/assets/199b4fa0-3000-46e8-abaa-2d553d012afb)
 ![anaconda 1](https://github.com/user-attachments/assets/97123802-4f10-435c-b26e-c5da16a7043c)
 ![anaconda 2](https://github.com/user-attachments/assets/0d517184-2875-424e-852d-a360cd5ac69f)
@@ -22,14 +23,14 @@ Kelas		: TIF A2
 ![ana 2 2](https://github.com/user-attachments/assets/12e843c4-1721-4d7d-b1aa-55e8e36c8ef5)
 ![ana 2](https://github.com/user-attachments/assets/6a2f80e8-d464-41d6-b25a-e1afa8b20d33)
 
-3.	Menggunakan Google Collab
+2. Menggunakan Google Collab
 ![collab](https://github.com/user-attachments/assets/ebdaa4e4-7b23-4749-82de-f3a07806a310)
 ![google](https://github.com/user-attachments/assets/ee23fe03-d349-43fc-a2ad-bade16b6a877)
-4.	Akun Kaggle
+3. Akun Kaggle
 ![Kaggle](https://github.com/user-attachments/assets/a84df2e9-64a9-4b73-bc3a-58837abb67a3)
-5.	Akun Github
+4. Akun Github
 ![gi](https://github.com/user-attachments/assets/df6d9f8f-4596-4fd9-973e-be86071cba08)  
-6.	Sample Dataset pada Scikit Learn
+5. Sample Dataset pada Scikit Learn
 5.1.	 Load Sample Dataset
 ![1](https://github.com/user-attachments/assets/f9eeb6b6-df96-4c8f-8679-b96406e88058)
 ![2](https://github.com/user-attachments/assets/23821ee1-ef1e-4428-ba9a-364f7f3e5076)
