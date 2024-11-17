@@ -18,14 +18,18 @@ Kelas		: TIF A2
 ![anaconda 11](https://github.com/user-attachments/assets/f5e7afa9-958e-40bc-8c19-ef6becfa291c)
 ![anaconda 12](https://github.com/user-attachments/assets/162c1c50-d7f8-4b28-bb82-f4aa54c1bc58)
 ![anaconda 13](https://github.com/user-attachments/assets/4b616a81-0830-4623-ba7a-658348bb92c3)
-2.	Menggunakan Google Collab
+![ana 1](https://github.com/user-attachments/assets/142cfe16-6dc2-42a1-a7ba-7f098bd4df54)
+![ana 2 2](https://github.com/user-attachments/assets/12e843c4-1721-4d7d-b1aa-55e8e36c8ef5)
+![ana 2](https://github.com/user-attachments/assets/6a2f80e8-d464-41d6-b25a-e1afa8b20d33)
+
+3.	Menggunakan Google Collab
 ![collab](https://github.com/user-attachments/assets/ebdaa4e4-7b23-4749-82de-f3a07806a310)
 ![google](https://github.com/user-attachments/assets/ee23fe03-d349-43fc-a2ad-bade16b6a877)
-3.	Akun Kaggle
+4.	Akun Kaggle
 ![Kaggle](https://github.com/user-attachments/assets/a84df2e9-64a9-4b73-bc3a-58837abb67a3)
-4.	Akun Github
+5.	Akun Github
 ![gi](https://github.com/user-attachments/assets/df6d9f8f-4596-4fd9-973e-be86071cba08)  
-5.	Sample Dataset pada Scikit Learn
+6.	Sample Dataset pada Scikit Learn
 5.1.	 Load Sample Dataset
 ![1](https://github.com/user-attachments/assets/f9eeb6b6-df96-4c8f-8679-b96406e88058)
 ![2](https://github.com/user-attachments/assets/23821ee1-ef1e-4428-ba9a-364f7f3e5076)
