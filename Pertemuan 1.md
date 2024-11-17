@@ -1,6 +1,8 @@
 # Tugas Machine Learning 1
 Nama		: Afif Naufal Hafidz
+
 NPM		: 41155050210067
+
 Kelas		: TIF A2
 ---
 1.	Instalasi Jupyter Notebook
@@ -31,6 +33,7 @@ Kelas		: TIF A2
 4. Akun Github
 ![gi](https://github.com/user-attachments/assets/df6d9f8f-4596-4fd9-973e-be86071cba08)  
 5. Sample Dataset pada Scikit Learn
+
 5.1.	 Load Sample Dataset
 ![1](https://github.com/user-attachments/assets/f9eeb6b6-df96-4c8f-8679-b96406e88058)
 ![2](https://github.com/user-attachments/assets/23821ee1-ef1e-4428-ba9a-364f7f3e5076)
@@ -58,6 +61,7 @@ Kelas		: TIF A2
 ![8](https://github.com/user-attachments/assets/2461892c-7fec-47ab-bbdc-38d7469e430d)
  
 6.	Machine Learning Workflow dengan Scikit Learn
+
 6.1.	 Persiapan Dataset | Loading & Splitting Dataset
 ![1](https://github.com/user-attachments/assets/6c609520-cdcb-44cc-8fd9-76cf6a87b6a7)
 
@@ -74,6 +78,7 @@ Kelas		: TIF A2
 ![5](https://github.com/user-attachments/assets/90336515-c98e-4f80-89cf-1a21f9d1a12c)
  
 7.	Data Preprocessinng dengan Scikit-Learn
+
 7.1.	 Persiapan Sample Dataset
 ![1](https://github.com/user-attachments/assets/edb04965-c525-4ed3-950d-516578803ec9)
  
